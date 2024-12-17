@@ -51,3 +51,6 @@ XML Layout Files
 -activity_recipe_details.xml: Layout for the recipe details page.
 -activity_edit_recipe.xml: Layout for the edit recipe form.
 -item_recipe.xml: Layout for individual recipe cards.
+
+[rapport_mini_projet.pdf](https://github.com/user-attachments/files/18167650/rapport_mini_projet.pdf)
+
